@@ -1,5 +1,3 @@
-# lex-file
-
 ## what's this?
 生成lex文件，lex文件为win下微软输入法的字库文件
 
